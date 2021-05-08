@@ -1,0 +1,49 @@
+{
+  "prices": [
+    {
+      "date": 1605772800,
+      "open": 427,
+      "high": 439,
+      "low": 427,
+      "close": 436.5,
+      "volume": 7232,
+      "adjclose": 436.5
+    },
+    {
+      "date": 1605686400,
+      "open": 439,
+      "high": 439,
+      "low": 428.5,
+      "close": 433.5,
+      "volume": 5604,
+      "adjclose": 433.5
+    },
+    {
+      "date": 1605600000,
+      "open": 430,
+      "high": 443,
+      "low": 428,
+      "close": 434,
+      "volume": 6359,
+      "adjclose": 434
+    },
+    {
+      "date": 1605513600,
+      "open": 440.5,
+      "high": 448,
+      "low": 431,
+      "close": 432.5,
+      "volume": 8424,
+      "adjclose": 432.5
+    },
+    {
+      "date": 1605254400,
+      "open": 420,
+      "high": 444.5,
+      "low": 420,
+      "close": 440,
+      "volume": 7995,
+      "adjclose": 440
+    },
+  ]
+}

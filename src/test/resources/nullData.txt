@@ -1,0 +1,22 @@
+{
+  "prices": [
+    {
+      "date": 1615772800,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null,
+      "adjclose": null
+    },
+    {
+      "date": 1625432800,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null,
+      "adjclose": null
+    },
+  ]
+}
