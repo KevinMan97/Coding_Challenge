@@ -1,5 +1,3 @@
-package main.java;
-
 import main.java.comparator.JSONObjectComparator;
 import main.java.comparator.JSONObjectDifferenceComparator;
 import org.json.simple.JSONArray;
