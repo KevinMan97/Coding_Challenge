@@ -1,11 +1,11 @@
-package main.java.comparator;
+package comparator;
 
 import org.json.simple.JSONObject;
 
 import java.util.Comparator;
 
 public class JSONObjectComparator implements Comparator<Object> {
-    private String key;
+    private final String key;
 
     public JSONObjectComparator(String key) {
         this.key = key;

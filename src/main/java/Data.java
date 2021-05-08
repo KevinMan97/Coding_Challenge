@@ -1,5 +1,5 @@
-import main.java.comparator.JSONObjectComparator;
-import main.java.comparator.JSONObjectDifferenceComparator;
+import comparator.JSONObjectComparator;
+import comparator.JSONObjectDifferenceComparator;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

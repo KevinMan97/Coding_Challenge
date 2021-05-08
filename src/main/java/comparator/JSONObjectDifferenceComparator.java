@@ -1,4 +1,4 @@
-package main.java.comparator;
+package comparator;
 
 import org.json.simple.JSONObject;
 
